@@ -1,0 +1,138 @@
+<resources>
+
+    <string name="app_name">ছোট্টমণিদের ছড়া</string>
+    <string name="secondActivityImageViewDesc">This is a ImageView</string>
+    <string name="navDrawerImageViewDesc">This is a ImageView</string>
+
+    <string name="share">Share App</string>
+    <string name="rate">Rate us</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+
+    <string name="alert_title">Warning</string>
+    <string name="alert_message">Do you want to exit?</string>
+
+    <string name="button1">ছুটি </string>
+    <string name="button2">হাট্টিমাটিম টিম </string>
+    <string name="button3">সফদার ডাক্তার </string>
+    <string name="button4">আয় বৃষ্টি ঝেঁপে </string>
+    <string name="button5">দোল দোল দুলুনি </string>
+    <string name="button6">আম পাতা জোড়া জোড়া</string>
+    <string name="button7">নোটন নোটন পায়রাগুলি</string>
+    <string name="button8">আতা গাছে তোতা পাখি</string>
+    <string name="button9">আইকম বাইকম তাড়াতাড়ি</string>
+    <string name="button10">খোকা যাবে শ্বশুর বাড়ি</string>
+    <string name="button11">চাঁদ উঠেছে ফুল ফুটেছে</string>
+    <string name="button12">তাঁতির বাড়ি ব্যাঙের বাসা</string>
+    <string name="button13">খোকা গেছে মাছ ধরতে</string>
+
+    <string name="chutiRhymeText">
+        মেঘেরে কোলে রোদ হেসেছে\n
+        বাদল গেছে টুটি,\n
+        আজ আমাদের ছুটি ও ভাই\n
+        আজ আমাদের ছুটি।\n
+        কী করি আজ ভেবে না পাই\n
+        পথ হারিয়ে কোন বনে যাই,\n
+        কোন মাঠে যে ছুটে বেড়াই\n
+        সকল ছেলে জুটি,\n
+        আজ আমাদের ছুটি ও ভাই\n
+        আজ আমাদের ছুটি।\n
+    </string>
+
+    <string name="hattiMatimTimRhymeText">
+        হাট্টিমাটিম টিম\n
+        তারা মাঠে পারে ডিম\n
+        তাদের খাড়া দুটো শিং\n
+        তারা হাট্টিমাটিম টিম।
+    </string>
+
+    <string name="safdarDaktarRhymeText">
+        সফদার ডাক্তার\n
+        মাথা ভরা টাক তার,\n
+        ক্ষিদে পেলে পানি খায় চিবিয়ে;\n
+        চেয়ারেতে রাতদিন\n
+        বসে গোনে দুই তিন\n
+        পড়ে বই আলোটারে নিভিয়ে।
+    </string>
+
+    <string name="ayBrisityJhepeRhymeText">
+        আয় বৃষ্টি ঝেঁপে\n
+        ধান দিব মেপে\n
+        যা বৃষ্টি ঝরে যা\n
+        লেবু পাতা করমচা।
+
+    </string>
+
+    <string name="dolDolDuluniRhymeText">
+        দোল দোল দুলুনি\n
+        রাঙ্গা মাথার চিরুনি,\n
+        বর আসবে যখনি\n
+        নিয়ে যাবে তখনি ।
+
+    </string>
+
+    <string name="amPataJoraJoraRhymeText">
+        আম পাতা জোড়া জোড়া\n
+        মারব চাবুক চড়ব ঘোড়া,\n
+        ওরে বুবু সরে দাঁড়া\n
+        আসছে আমার পাগলা ঘোড়া,\n
+        পাগলা ঘোড়া খেপেছে\n
+        চাবুক ছুড়ে মেরেছে।
+    </string>
+
+    <string name="notonNotonRhymeText">
+        নোটন নোটন পায়রাগুলি\n
+        ঝোটন বেঁধেছে,\n
+        ওপারেতে ছেলেমেয়ে\n
+        নাইতে নেমেছে।
+
+    </string>
+    <string name="ataGacheTotaPakhiRhymeText">
+        আতা  গাছে তোতা পাখি ,\n
+        ডালিম গাছে  মৌ\n
+        এতো ডাকি তবু কেনো ,\n
+        কউ না কথা বৌ।
+
+    </string>
+
+    <string name="aikomBaikomRhymeText">
+        আইকম বাইকম তাড়াতাড়ি\n
+        যদু মাস্টার শ্বশুরবাড়ি\n
+        রেল গাড়ী ঝমাঝম\n
+        পা পিছলে আলুর দম।
+
+    </string>
+
+    <string name="khokaJabeShoshurBariRhymeText">
+        খোকা যাবে শ্বশুর বাড়ি\n
+        সঙ্গে যাবে কে ?\n
+        ঘরে আছে হুলো বিড়াল\n
+        কোমর বেধেঁছে ।
+
+    </string>
+
+    <string name="chadUthecheRhymeText">
+        চাঁদ উঠেছে, ফুল ফুটেছে,\n
+        কদম তলায় কে?\n
+        হাতি নাচছে, ঘোড়া নাচছে,\n
+        সোনামণির বে।
+    </string>
+
+    <string name="tatiBariBangerBashaRhymeText">
+        তাঁতির বাড়ি ব্যাঙের বাসা\n
+        কোলা ব্যাঙের ছা,\n
+        খায় দায় গান গায়-\n
+        “তা রে না রে না ।
+
+    </string>
+
+    <string name="khokaGecheMachDhorteRhymeText">
+        খোকা গেছে মাছ ধরতে\n
+        ক্ষীর নদীর কূলে,\n
+        ছিপ নিয়ে গেল কোলা ব্যাঙে\n
+        মাছ নিয়ে গেল চিলে।
+    </string>
+
+
+</resources>
